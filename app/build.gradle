@@ -9,7 +9,7 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.avi5hek.purrfectapp"
+        applicationId "com.lab27.daggerTutorialApp"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1
